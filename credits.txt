@@ -1,0 +1,17 @@
+Credits (External Assets)
+Graphics:
+- Free Open Building - Dr. Bean - https://assetstore.unity.com/packages/3d/environments/free-open-building-112907
+- Lowpoly Toon Cat Lite - Ombuarts Studio - https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-toon-cat-lite-66083
+- Man in a Suit - Studio New Punch - https://assetstore.unity.com/packages/3d/characters/humanoids/humans/man-in-a-suit-51662
+- Customizable Kitchen Pack - Fractured Brain Studios - https://assetstore.unity.com/packages/3d/props/interior/customizable-kitchen-pack-22269
+- Big Furniture Pack - Vertex Studio - https://assetstore.unity.com/packages/3d/props/furniture/big-furniture-pack-7717
+- Dream Forest Tree - IL.ranch - https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297
+- Furniture FREE Pack - DEXSOFT-Games, 3DModels-textures - https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628
+- Trash Bin - YGS Assets - https://assetstore.unity.com/packages/3d/props/furniture/trash-bin-96670
+- Tools and Logs - Mikolaj Spychal - https://assetstore.unity.com/packages/3d/props/tools-and-logs-43971
+- White Porcelain Dish Set Demo - Stefαn - https://assetstore.unity.com/packages/3d/white-porcelain-dish-set-demo-82858
+
+Audio:
+- Atmospheric Horror Music - Moxie Music - https://assetstore.unity.com/packages/audio/music/atmospheric-horror-music-121337
+- Cat2 - Partners In Rhyme - https://www.freesoundeffects.com/free-track/cat2-89415/cat/
+
